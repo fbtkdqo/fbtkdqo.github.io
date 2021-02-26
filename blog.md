@@ -1,7 +1,7 @@
 ---
 layout: blog
 permalink: /blog/
-title: Rohit Jain | Blog
+title: Ryu SangBae | Blog
 pagination:
   enabled: true
 ---
